@@ -1,0 +1,22 @@
+body {
+  font-family: Helvetica;
+}
+.row {
+  margin: 0;
+}
+.col {
+  text-align: center;
+  font-size: 30px;
+  font: Helvetica;
+  width: 60px;
+  height: 60px;
+  padding: 6px;
+  border: 1px solid black;
+}
+
+#myBar {
+  height: 50px;
+  background-color: blue;
+  font-size: 22px;
+  text-align: center;
+}
